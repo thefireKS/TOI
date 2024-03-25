@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<player>
+    <user>
+        <id>74673</id>
+        <nickname>Vasyan</nickname>
+        <balance>999</balance>
+        <rating>6520</rating>
+    </user>
+    <user>
+        <id>218012</id>
+        <nickname>TOImaker</nickname>
+        <balance>0</balance>
+        <rating>1100</rating>
+    </user>
+    <user>
+        <id>59142</id>
+        <nickname>Goshasha</nickname>
+        <balance>4444</balance>
+        <rating>7800</rating>
+    </user>
+</player>
+
