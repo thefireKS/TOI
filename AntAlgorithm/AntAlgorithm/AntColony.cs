@@ -1,4 +1,7 @@
-﻿public class AntColony{    
+﻿public class AntColony
+{
+    private double minTour = 999;
+    
     private readonly int _numAnts;
     private readonly double[,] _distances;
     private readonly double[,] _pheromones;
@@ -166,7 +169,15 @@
             int[] tour = _ants[i].VisitedCities.ToArray();
             double tourLength = _ants[i].TourLength(_distances);
 
+            if (tourLength < minTour)
+                minTour = tourLength;
+
             Console.WriteLine($"Tour {i + 1}: {string.Join(" -> ", tour)}, Length: {tourLength}");
         }
+    }
+
+    public void getMinTour()
+    {
+        Console.WriteLine(minTour);
     }
 }

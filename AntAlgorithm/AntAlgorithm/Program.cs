@@ -43,5 +43,7 @@
         Console.WriteLine("Длина: " + bestTourLength);
         
         antColony.PrintAllTours();
+        
+        antColony.getMinTour();
     }
 }

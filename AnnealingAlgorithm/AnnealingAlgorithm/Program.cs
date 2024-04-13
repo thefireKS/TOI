@@ -8,11 +8,13 @@
 
     static int[] GenerateRandomRoute(int numCities)
     {
-        int[] route = new int[numCities];
+        int[] route = new int[numCities+1];
         for (int i = 0; i < numCities; i++)
         {
             route[i] = i;
         }
+
+        route[numCities] = 0;
 
         for (int i = numCities - 1; i > 0; i--)
         {

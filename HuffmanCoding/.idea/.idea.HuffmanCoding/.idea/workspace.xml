@@ -8,6 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11d00d98-cea8-4e2d-bab4-7e80be5c5d20" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../AnnealingAlgorithm/AnnealingAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AnnealingAlgorithm/AnnealingAlgorithm/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AntAlgorithm/AntAlgorithm/AntColony.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AntAlgorithm/AntAlgorithm/AntColony.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AntAlgorithm/AntAlgorithm/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AntAlgorithm/AntAlgorithm/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HuffmanCoding/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HuffmanCoding/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +76,7 @@
       <updated>1707570759142</updated>
       <workItem from="1707570760605" duration="2743000" />
       <workItem from="1707725036220" duration="4365000" />
+      <workItem from="1712059190783" duration="813000" />
     </task>
     <servers />
   </component>
